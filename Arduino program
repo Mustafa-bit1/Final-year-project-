@@ -1,3 +1,5 @@
+Arduino Program to rotate stepper motor precisely by 90 degrees everytime the push button is pressed
+
 #define dirPin 2
 #define stepPin 3
 #define swi 4 
