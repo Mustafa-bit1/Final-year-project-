@@ -1,4 +1,4 @@
-# Final-year-project-
+# Final-year-project
 B.Tech final year project : Vision System for part dimensional measurement and dataset comparison.
 
 
@@ -9,11 +9,12 @@ Design and Development of Vision system for Inspection and Part Identification.
 ![k](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/c00ef11b-738f-4d25-bd26-a557c151a5ab)   
 ![lyot](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/b52bf00b-a136-4230-894e-7882d2d58985)
 
-# Login window
+# 
+Login window
 ![j2](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/f3d6f190-7f22-4e9a-b3c2-5743f7af1c1e)
 
 ```bash
-  Scroll-down for more project photos and results
+  #Scroll-down for more project photos and results
 
 ```
 
@@ -75,3 +76,18 @@ In this project dataset is basically a file which stores all the dimensional dat
 ![eee](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/6f96faba-1574-485e-9950-012e0a993bda)
 
 ![collage3](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/fd8f2b83-a64c-4398-a2d4-21a692f25a2a)
+
+
+## Project Team
+Mohammed Mustafa Maniyar
+
+Tabarak Sadat Momin
+
+Srivatsa Tantry
+
+Ajaykumar SG
+
+Rakshita Chalawadi
+
+## Project Guide : Dr. RR Malagi 
+
