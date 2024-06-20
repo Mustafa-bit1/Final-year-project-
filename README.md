@@ -98,5 +98,19 @@ Ajaykumar SG
 
 Rakshita Chalawadi
 
-## Project Guide : Dr. RR Malagi 
+## Project Guide :
+Dr. RR Malagi 
+
+
+# Tribute
+
+
+![btch](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/2249167e-b728-44f7-903e-4f10f9d736af)
+
+
+![lib](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/b9f75186-27c5-4b4c-8546-fc1b1c090e72)
+
+
+![finl](https://github.com/Mustafa-bit1/Final-year-project-/assets/172354785/9188ff28-6931-4476-84d1-84b928f5191e)
+
 
